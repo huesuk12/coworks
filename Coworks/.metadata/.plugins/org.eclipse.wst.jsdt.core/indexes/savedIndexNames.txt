@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\dd\coworks\Coworks\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+27303500.index
+1842874471.index
+3677167317.index
+874000934.index
+4252485647.index
